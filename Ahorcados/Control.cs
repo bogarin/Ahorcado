@@ -71,11 +71,11 @@ namespace Ahorcados
 		private bool equivocaciones(){
 			if (vandera==false) {
 				Errores++;
-				System.Console.WriteLine("vamos mal solo tienes 3 intentos y ya llevas mal {0} ",Errores);
 				if(Errores == 3){
 					System.Console.WriteLine("Te as equivocado estas ahorcado :(");
 					return false; 
 				}
+				System.Console.WriteLine("vamos mal solo tienes 3 intentos y ya llevas mal {0} ",Errores);
 			}
 			return true;
 		}
