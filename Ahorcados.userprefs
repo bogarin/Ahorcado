@@ -1,10 +1,10 @@
-﻿<Properties>
+﻿<Properties GitUserInfo="UsingGIT">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Ahorcados/Program.cs">
     <Files>
-      <File FileName="Ahorcados/Adivinar.cs" Line="23" Column="1" />
-      <File FileName="Ahorcados/Control.cs" Line="17" Column="4" />
-      <File FileName="Ahorcados/Program.cs" Line="25" Column="9" />
+      <File FileName="Ahorcados/Adivinar.cs" Line="46" Column="1" />
+      <File FileName="Ahorcados/Control.cs" Line="36" Column="1" />
+      <File FileName="Ahorcados/Program.cs" Line="41" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
